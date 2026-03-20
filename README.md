@@ -5,7 +5,7 @@ en Afrique, réalisé sous Excel avec tableaux croisés dynamiques.
 
 ## Aperçu
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](Screenshots/Dashboard.png)
 
 ## Contexte
 
